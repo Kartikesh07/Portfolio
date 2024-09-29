@@ -375,11 +375,12 @@ nav .container {
 }
 
 .blog-image {
-    width: 100%;
+    width: 65%; 
     height: auto;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transition: transform var(--transition-speed) ease;
+    margin: 0 auto; 
 }
 
 .blog-image:hover {
