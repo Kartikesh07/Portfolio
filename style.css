@@ -389,10 +389,11 @@ nav .container {
 
 .blog-text {
     width: 100%;
+    
 }
 
 .blog-text p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.8;
     color: var(--text-color-light);
     margin-bottom: 20px;
